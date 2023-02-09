@@ -3,7 +3,7 @@
 ## Approach
 
 * Obtain word tokens from a sentence.
-* Stem to ensure `share` is in the sentence, as well as `email`.
+* Stem to ensure `share` and `email` are present.
 * Perform Part Of Speech Tagging.
 * Assign labels based on occurrences of Verb, past participle and Verb, past tense.
 
